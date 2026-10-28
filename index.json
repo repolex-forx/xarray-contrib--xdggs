@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xdggs",
+  "versions": [
+    {
+      "commit": "2995840a620a39a3c15bae40972c950316d29342",
+      "tag": "0.7.0",
+      "parsed_at": "2026-10-28T13:38:57.767957+00:00"
+    }
+  ]
+}
